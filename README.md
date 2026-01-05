@@ -1,30 +1,4 @@
-
 # 💻 Tech Stack
-
-<style>
-
-  .carousel {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-    scroll-behavior: smooth;
-  }
-
-  .carousel a {
-    height: 60px;
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-
-  .carousel a:hover {
-    transform: scale(1.5);
-  }
-
-  .carousel::-webkit-scrollbar {
-    display: none;
-  }
-
-</style>
 
 <div class="carousel">
   <a href="https://www.docker.com/" target="_blank" rel="noopener">
